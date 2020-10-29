@@ -12,9 +12,9 @@ Setup:
 
 Once you're set up run sync.sh script
 
-###############################################################################################
+##################################
 RULES
-###############################################################################################
+##################################
 Video title on YouTube has to have a specific format where it starts with Artist/s - Track
 
 WHERE:
@@ -30,9 +30,9 @@ Examples:
   Frank Ocean - Self Control
   Frank Ocean - There Will Be Tears - Download & Lyrics
 
-###############################################################################################
+###################################
 Authentication
-###############################################################################################
+###################################
 
 When you first run this program you will need to login in and give this app permission to access your YouTube and Spotify accounts' data. However, once you have given this app access, you won't be asked to provide permission again as a SPOTIFY_REFRESH_TOKEN and YOUTUBE_REFRESH_TOKEN will be saved to your environment variables and used to access your data.
 
