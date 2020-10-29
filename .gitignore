@@ -1,0 +1,5 @@
+youtube_spotify_sync/__pycache__
+youtube_spotify_sync/app_secrets.py
+.python-version
+setup.py
+venv
