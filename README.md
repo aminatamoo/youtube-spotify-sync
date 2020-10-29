@@ -15,6 +15,7 @@ Once you're set up run sync.sh script
 ##################################
 RULES
 ##################################
+
 Video title on YouTube has to have a specific format where it starts with Artist/s - Track
 
 WHERE:
